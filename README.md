@@ -6,6 +6,7 @@ Example usage:
 package main
 
 import(
+	"fmt"
 	cs "github.com/bas24/contentscraper"
 )
 ```
@@ -41,6 +42,4 @@ func main(){
 }
 ```
 
-
-"Coding for pleasure now, maybe one day as career."<br>
 "Better not very nice code than no code!"

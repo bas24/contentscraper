@@ -1,5 +1,8 @@
 Simple scraper of the content of specific element on web page.
 
+Install:<br>
+go get github.com/bas24/contentscraper
+
 Example usage:
 
 ```go
